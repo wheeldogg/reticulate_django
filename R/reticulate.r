@@ -25,8 +25,6 @@ repl_python()
 # (Python functions and objects defined within the script become directly available to the R session).
 
 # import your django models into R.
-django_app                 <- "/Users/wheeldogg/Dropbox/Documents/workspace/projects/web-development/django_unleashed/DjangoUnleashed-1.8"
-python_read_django_objects <- "/Users/wheeldogg/Dropbox/Documents/workspace/projects/web-development/access_objects_in_r/python/django_objects_import.py"
 python_read_django_objects  <- '/test/your _python_file.py'
 
 # source the python file.
