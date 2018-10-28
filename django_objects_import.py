@@ -1,11 +1,11 @@
 # How queries work in django.
-# https://www.youtube.com/watch?v=WimXjp0ryOo
+
 import sys
 import os
 import django
 
 # path of django project.
-sys.path.append('/Users/wheeldogg/Dropbox/Documents/workspace/projects/web-development/django_unleashed/DjangoUnleashed-1.8')
+sys.path.append('path_to_django_project')
 
 ## settings.
 ## deprecated
